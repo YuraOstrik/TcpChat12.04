@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\bin\Debug\net8.0-windows\TcpServerChat.exe
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\bin\Debug\net8.0-windows\TcpServerChat.deps.json
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\bin\Debug\net8.0-windows\TcpServerChat.runtimeconfig.json
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\bin\Debug\net8.0-windows\TcpServerChat.dll
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\bin\Debug\net8.0-windows\TcpServerChat.pdb
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\TcpChat12._03.Form1.resources
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\TcpServerChat.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\TcpServerChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\TcpServerChat.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\TcpServerChat.AssemblyInfo.cs
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\TcpServerChat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\TcpServerChat.dll
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\refint\TcpServerChat.dll
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\TcpServerChat.pdb
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\TcpServerChat.genruntimeconfig.cache
+C:\Users\User\source\repos\TcpChat12.03\TcpChat12.03\obj\Debug\net8.0-windows\ref\TcpServerChat.dll
